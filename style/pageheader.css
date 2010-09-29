@@ -1,12 +1,11 @@
+/**************************** Page Header Styles **************************/
+
 .header
 {
-	width: 1024px;
-	height: 146px;
-    //background: url(../images/header.jpg);
-    //background: url(../images/oxford_250.jpg) center;
-    //padding: 12px 45px 10px 50px;
-    background: url(../images/oxford_300_rounded.jpg) center;
-    background-repeat: no-repeat;
+  width: 1024px;
+  height: 146px;
+  background: url(../images/oxford_300_rounded.jpg) center;
+  background-repeat: no-repeat;
 
 }
 .header-left-image
@@ -23,5 +22,35 @@
   height: 50px;
   background-image: url(../images/Skype_50.png);
   background-repeat: no-repeat;
+}
+.top-left-section
+{
+  float: left;
+  margin-left: 110px;
+  margin-top: 20px;
+}
+.top-left-title1
+{
+  float: left;
+  text-align:left;
+  font-family:tahoma;
+  font-size:24pt;
+  color:#636363;
+  margin-left:5px;
+  margin-top:5px;
+}
+.top-left-title2
+{
+  float:left;  
+  text-align:left; 
+  font-family:tahoma; 
+  font-size:8pt; 
+  color:#b1b1b1;
+}
+.tod
+{
+  font-family:tahoma; 
+  font-size:8pt; 
+  color:#b1b1b1;
 }
 
