@@ -1,0 +1,3 @@
+# robots.txt for http://elcox.co.uk/
+
+User-agent: *
